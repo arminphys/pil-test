@@ -1,0 +1,4 @@
+Found 2 gpus
+Found SLURM_PROCID 0
+Found SLURM_NTASKS 1
+Found SLURM_NODELIST hpcl9104
